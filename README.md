@@ -9,7 +9,7 @@
 - 🌐 diving into **web dev** and building practical skills
 - 📈 exploring **data analysis** and **AI**
 - 💡 passionate about **fintech** and creating meaningful projects
-- 🇫🇷  learning **frech** to broaden my horizons
+- 🇫🇷  learning **french** to broaden my horizons
 - 📫 reach me at sokviseth.b@gmail.com
 
 <br>
