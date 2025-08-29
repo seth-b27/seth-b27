@@ -1,7 +1,7 @@
 <p align="center">
   <strong style="font-size:32px;">👋 Hi, I'm Sokviseth</strong>
   <br>
-  <span style="font-size:16px;">a newbie still figuring out this whole "tech wizard" thing 🧙‍♂️</span>
+  <span style="font-size:16px;">a newbie who's still figuring out this "tech wizard" thing 🧙‍♂️</span>
 </p>
 <br>
 
@@ -30,9 +30,9 @@
 
 🦉 **hogwarts wasn't hiring, so i learned how to code...**
 <p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IxdHJtODRiazNzdjI3cm1odWtpaDU1Y2RsbjdvdzBjMGZsbm9oOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding GIF" width="250" height="150" style="margin-right: 50px;"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IxdHJtODRiazNzdjI3cm1odWtpaDU1Y2RsbjdvdzBjMGZsbm9oOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RpX3MPpmKt8FwpC23r/giphy.gif" alt="Coding GIF" width="250" height="150"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBwbW5hcGphdGJqdHkycGQweTFucDdvcGgzcHdneG9wcm5uYmczNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pYCZPDymIVjeo/giphy.gif" alt="Coding GIF" width="300" height="150" style="margin-right: 50px;"/> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IxdHJtODRiazNzdjI3cm1odWtpaDU1Y2RsbjdvdzBjMGZsbm9oOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding GIF" width="300" height="150" style="margin-right: 50px;"/> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IxdHJtODRiazNzdjI3cm1odWtpaDU1Y2RsbjdvdzBjMGZsbm9oOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RpX3MPpmKt8FwpC23r/giphy.gif" alt="Coding GIF" width="300" height="150"/>
 </p>
 
 <br><br>
