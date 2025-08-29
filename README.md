@@ -34,5 +34,3 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IxdHJtODRiazNzdjI3cm1odWtpaDU1Y2RsbjdvdzBjMGZsbm9oOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RpX3MPpmKt8FwpC23r/giphy.gif" alt="Coding GIF" width="250" height="150"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBwbW5hcGphdGJqdHkycGQweTFucDdvcGgzcHdneG9wcm5uYmczNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pYCZPDymIVjeo/giphy.gif" alt="Coding GIF" width="300" height="150" style="margin-right: 50px;"/> 
 </p>
-
-<br><br>
