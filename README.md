@@ -17,9 +17,7 @@
 📊 **github stats**
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=seth-b27&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seth-b27&layout=compact&theme=tokyonight/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=seth-b27&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
 </div>
 <br>
 
