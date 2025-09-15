@@ -14,12 +14,12 @@
 
 <br>
 
-📊 **github stats**
+<!-- 📊 **github stats**
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=seth-b27&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
 </div>
-<br>
+<br> -->
 
 ⌨️ **tech stack & skills**
 
